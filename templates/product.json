@@ -104,56 +104,6 @@
         "padding_bottom": 100
       }
     },
-    "newsletter": {
-      "type": "newsletter",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Join the Gaang!",
-            "heading_size": "h0"
-          }
-        },
-        "c7f959d8-c26e-4b8e-9698-b5b30cd5e714": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Conoce nuevos productos, promociones, ofertas y más<\/p>"
-          }
-        },
-        "email-form": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "c7f959d8-c26e-4b8e-9698-b5b30cd5e714",
-        "email-form"
-      ],
-      "settings": {
-        "color_scheme": "background-2",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "17010978793c574423": {
-      "type": "apps",
-      "blocks": {
-        "1aca722e-4c39-4104-903a-c219cdfb2a3e": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "1aca722e-4c39-4104-903a-c219cdfb2a3e"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "a9e369ab-afa7-4e66-abf3-133cdb94a012": {
       "type": "featured-collection",
       "settings": {
@@ -180,13 +130,63 @@
         "padding_top": 52,
         "padding_bottom": 52
       }
+    },
+    "17010978793c574423": {
+      "type": "apps",
+      "blocks": {
+        "1aca722e-4c39-4104-903a-c219cdfb2a3e": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1aca722e-4c39-4104-903a-c219cdfb2a3e"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join the Gaang!",
+            "heading_size": "h0"
+          }
+        },
+        "c7f959d8-c26e-4b8e-9698-b5b30cd5e714": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Entérate de nuevos productos y promociones<\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "c7f959d8-c26e-4b8e-9698-b5b30cd5e714",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
-    "newsletter",
+    "a9e369ab-afa7-4e66-abf3-133cdb94a012",
     "17010978793c574423",
-    "a9e369ab-afa7-4e66-abf3-133cdb94a012"
+    "newsletter"
   ]
 }
