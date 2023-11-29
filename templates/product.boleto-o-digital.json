@@ -1,0 +1,192 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "product-rating": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Compartir"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "f1c409bb-59fd-472e-a0a1-3569e8300676": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Información De Envíos",
+            "icon": "truck",
+            "content": "<p>En cuanto se confirme tu pago nos pondremos a prepararlo, <br\/>esto regularmente ocurre en menos de 24 horas. Después de ésto el tiempo<br\/> de envío de la paquetería es de 3 a 5 días hábiles.<\/p><p>El precio estándar de los envíos nacionales es de $ 139 pesos<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "caption",
+        "product-rating",
+        "price",
+        "share",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "f1c409bb-59fd-472e-a0a1-3569e8300676"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "gallery_layout": "stacked",
+        "media_size": "medium",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "Tambien podrian gustarte",
+        "heading_size": "h2",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "color_scheme": "accent-2",
+        "image_ratio": "portrait",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "1",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "a9e369ab-afa7-4e66-abf3-133cdb94a012": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "También podrían gustarte",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "verano-del-cohete",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "accent-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "17010978793c574423": {
+      "type": "apps",
+      "blocks": {
+        "1aca722e-4c39-4104-903a-c219cdfb2a3e": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1aca722e-4c39-4104-903a-c219cdfb2a3e"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join the Gaang!",
+            "heading_size": "h0"
+          }
+        },
+        "c7f959d8-c26e-4b8e-9698-b5b30cd5e714": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Entérate de nuevos productos y promociones<\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "c7f959d8-c26e-4b8e-9698-b5b30cd5e714",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "a9e369ab-afa7-4e66-abf3-133cdb94a012",
+    "17010978793c574423",
+    "newsletter"
+  ]
+}
