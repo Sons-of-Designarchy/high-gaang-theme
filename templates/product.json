@@ -48,6 +48,39 @@
             "show_dynamic_checkout": true
           }
         },
+        "revie_reviews_por_whatsapp_app_block_4qcGnr": {
+          "type": "shopify:\/\/apps\/revie-reviews-por-whatsapp\/blocks\/app-block\/32a49769-cfbe-4f29-8b19-1ae20fdb2abe",
+          "settings": {
+            "star_color": "#000000",
+            "star_text_2": "reseñas",
+            "size": 25
+          }
+        },
+        "revie_reviews_por_whatsapp_app_block_4_PGaEtV": {
+          "type": "shopify:\/\/apps\/revie-reviews-por-whatsapp\/blocks\/app-block-4\/32a49769-cfbe-4f29-8b19-1ae20fdb2abe",
+          "settings": {
+            "title": "{star} {count} Reviews",
+            "format": "1",
+            "image": "1",
+            "from": "1",
+            "onlinephotos": "1",
+            "title_color": "#000000",
+            "title_size": 24,
+            "title_pos": "flex-start",
+            "date": true,
+            "star_color": "#000000",
+            "size": 15,
+            "back_color": "#ffffff",
+            "text_color": "#121212",
+            "size_text": 14,
+            "max_reviews": 10,
+            "nextButtonText": "Mostrar más reseñas",
+            "productButtonText": "Ver producto",
+            "max_width": 1200,
+            "content_padding": 22,
+            "max_width_image": 24
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -72,6 +105,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "revie_reviews_por_whatsapp_app_block_4qcGnr",
+        "revie_reviews_por_whatsapp_app_block_4_PGaEtV",
         "description",
         "f1c409bb-59fd-472e-a0a1-3569e8300676"
       ],
@@ -104,22 +139,6 @@
         "padding_bottom": 100
       }
     },
-    "17010978793c574423": {
-      "type": "apps",
-      "blocks": {
-        "1aca722e-4c39-4104-903a-c219cdfb2a3e": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "1aca722e-4c39-4104-903a-c219cdfb2a3e"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "a9e369ab-afa7-4e66-abf3-133cdb94a012": {
       "type": "featured-collection",
       "settings": {
@@ -145,6 +164,22 @@
         "swipe_on_mobile": true,
         "padding_top": 52,
         "padding_bottom": 52
+      }
+    },
+    "17010978793c574423": {
+      "type": "apps",
+      "blocks": {
+        "1aca722e-4c39-4104-903a-c219cdfb2a3e": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1aca722e-4c39-4104-903a-c219cdfb2a3e"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "newsletter": {
@@ -185,8 +220,8 @@
   "order": [
     "main",
     "product-recommendations",
-    "17010978793c574423",
     "a9e369ab-afa7-4e66-abf3-133cdb94a012",
+    "17010978793c574423",
     "newsletter"
   ]
 }
