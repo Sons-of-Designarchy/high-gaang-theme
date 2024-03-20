@@ -1,1 +1,220 @@
-{"sections":{"16596526473bacf1c1":{"type":"custom-liquid","settings":{"custom_liquid":"<div class=\"video-container\">\n    <video playsinline autoplay muted loop id=\"myVideo\">\n      <source src=\"http:\/\/danielpliego.com\/highgaang\/video-hg-small.mp4\" type=\"video\/mp4\">\n      Your browser does not support HTML5 video.\n    <\/video>\n  \n    <div class=\"content\">\n      <div class=\"content-text\">\n        <h1>Some girls get high <\/h1>\n        <p>Moda y accesorios para mantenerte en las nubes.<\/p>\n      <\/div>\n    <\/div>\n  <\/div>\n\n\n  <script>\n    var video = document.getElementById(\"myVideo\");\n    var btn = document.getElementById(\"myBtn\");\n\n    function myFunction() {\n      if (video.paused) {\n        video.play();\n        btn.innerHTML = \"Pause\";\n      } else {\n        video.pause();\n        btn.innerHTML = \"Play\";\n      }\n    }\n  <\/script>\n\n\n\n<style>\n  @media(min-width:768px){\n    .video-container {\n    position: relative;\n    height: 100vh;\n    width: 100%;\n    }\n    #myVideo {\n    position: absolute;\n    right:0;\n    bottom: 0;\n    min-width: 100%;\n    min-height: 100%;\n  }\n  }\n  @media(max-width:768px){\n    .video-container {\n      position: center;\n      height: 100vh;\n      margin-top: -200px;\n      max-width: 100%;\n      overflow:hidden;\n    }\n    #myVideo {\n    position: relative;\n    top: 0;\n    left:0;\n    right:0;\n    bottom: 0;\n    min-width: 100%;\n  }\n  }\n  \n  \n  .content {\n    position: absolute;\n    bottom: 0;\n    width: 100%;\n    padding: 20px;\n    min-height: 75%;\n  }\n\n  .content-text {\n    margin: 0 auto;\n    max-width: 1200px;\n    padding: 2rem;\n    text-align: center;\n  }\n\n  h1 {\n    font-size: 84.5px;\n    font-family: \"MorgenWalsh\", serif;\n    letter-spacing: -3px;\n    margin-bottom: 0;\nline-height: 84.5px;\n  }\n<\/style>","color_scheme":"background-1","padding_top":40,"padding_bottom":52}},"1655792306f0adf85c":{"type":"featured-collection","settings":{"title":"🔥 Lo + nuevo 🔥","heading_size":"h2","description":"","show_description":false,"description_style":"body","collection":"nuevos-productos","products_to_show":12,"columns_desktop":3,"full_width":true,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":true,"color_scheme":"background-1","image_ratio":"adapt","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":true,"padding_top":32,"padding_bottom":100}},"165579156640499b62":{"type":"collection-list","blocks":{"1655791566d7240f36-1":{"type":"featured_collection","settings":{"collection":"crop-tops"}},"bb8d222c-b41f-481b-8a4d-ab2892d32d86":{"type":"featured_collection","settings":{"collection":"hoodies"}},"1655791566d7240f36-0":{"type":"featured_collection","settings":{"collection":"gorros-y-buckets"}},"5c254b06-5250-4cf0-bddc-1587601df806":{"type":"featured_collection","settings":{"collection":"accesorios"}},"c71c31fd-5525-464e-bbea-7d8003f6d6a1":{"type":"featured_collection","settings":{"collection":"smoke-shop"}}},"block_order":["1655791566d7240f36-1","bb8d222c-b41f-481b-8a4d-ab2892d32d86","1655791566d7240f36-0","5c254b06-5250-4cf0-bddc-1587601df806","c71c31fd-5525-464e-bbea-7d8003f6d6a1"],"custom_css":[],"settings":{"title":"Arma tu outfit","heading_size":"h2","image_ratio":"portrait","columns_desktop":5,"color_scheme":"accent-1","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":true,"padding_top":100,"padding_bottom":100}},"featured-collection":{"type":"featured-collection","settings":{"title":"Los favs del gaang","heading_size":"h2","description":"","show_description":false,"description_style":"uppercase","collection":"verano-del-cohete","products_to_show":3,"columns_desktop":3,"full_width":false,"show_view_all":true,"view_all_style":"outline","enable_desktop_slider":true,"color_scheme":"background-1","image_ratio":"portrait","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":true,"columns_mobile":"1","swipe_on_mobile":true,"padding_top":100,"padding_bottom":100}},"16589639038e65b6aa":{"type":"custom-liquid","settings":{"custom_liquid":"<div class=\"síguenos-banner\" style=\"font-size:44px; overflow: hidden; white-space: nowrap; border-top: 1px solid #000; border-bottom: 1px solid #000; text-transform: uppercase; font-weight: 300\">\n<a \nstyle=\"text-decoration: none; color: #000\"\n\nhref=\"https:\/\/www.tiktok.com\/@highgaang_\">\nSiguenos en Instagram > @highgaang < Síguenos en Tiktok > @highgaang < Siguenos en Instagram > @highgaang < Siguenos en Instagram > @highgaang <\n<\/a>\n<\/div","color_scheme":"background-1","padding_top":0,"padding_bottom":0}},"1659658576a8bf0937":{"type":"custom-liquid","settings":{"custom_liquid":"<div class=\"about-container\">\n  <div class=\"about\">\n    <div>\n      <img src=\"http:\/\/danielpliego.com\/highgaang\/left-image.png\" alt=\"\">\n    <\/div>\n    <div class=\"about-content\">\n      <h1>Join the Gaang<\/h1>\n      <p>\n        Buscamos cambiar la percepción que existe hacia las personas que consumen cannabis, (en especial las mujeres) a través de contenido educativo y colecciones de ropa y accesorios que expresan un estilo de vida más conectado a la naturaleza y la psicodelia.\n      <\/p>\n      <p>\n        Nos gusta colaborar con artistas, marcas y tiendas independientes para en conjunto promover el\n        comercio local.\n      <\/p>\n      <a href=\"mailto:highgaang@gmail.com\">contáctanos<\/a>\n    <\/div>\n    <div>\n      <img src=\"http:\/\/danielpliego.com\/highgaang\/right-image.png\" alt=\"\">\n    <\/div>\n  <\/div>\n<\/div>\n\n<style type=\"text\/css\">\n  .about-container {\n    padding: 5rem 1rem;\n    background: url('https:\/\/danielpliego.com\/highgaang\/bg-fondo.jpg');\n    background-size: cover;\n  }\n\n  @media (min-width: 768px) {\n    .about {\n      display: grid;\n      grid-gap: 1rem;\n      margin: 0 auto;\n      max-width: 1200px;\n      grid-template-columns: 2fr 3fr 2fr;\n    }\n  }\n\n  .about-content {\n    text-align: center;\n    font-size: 20px;\n    letter-spacing: -1px;\n  }\n\n  .about-content h1 {\n    font-family: 'Magilio', sans-serif;\n    font-size: 84px;\n    line-height: 84px;\n    margin: 1rem;\n  }\n\n  .about-content a {\n    display: inline-block;\n    border: 1px solid #000;\n    padding: 0.5rem 2rem;\n    border-radius: 20px;\n    color: #000;\n    text-decoration: none;\n    text-transform: uppercase;\n  }\n\n  img {\n    max-width: 100%;\n    height: auto;\n  }\n<\/style>","color_scheme":"background-1","padding_top":0,"padding_bottom":0}},"16589641322708fa3a":{"type":"custom-liquid","settings":{"custom_liquid":"<div class=\"siguenos-banner\" style=\"font-size:28px; overflow: hidden; white-space: nowrap; border-top: 1px solid #000; border-bottom: 1px solid #000; text-transform: uppercase; font-weight: 300\">\n<a \nstyle=\"text-decoration: none; color: #000\"\n\nhref=\"https:\/\/www.instagram.com\/highgaang\/\">\nSíguenos en Instagram > @highgaang < \n<\/a>\n\n<a \nstyle=\"text-decoration: none; color: #000\"\n\nhref=\"https:\/\/www.tiktok.com\/@highgaang_\">\nSiguenos en Tiktok > @highgaang < Siguenos en Tiktok > @highgaang <\n<\/a>\n<\/div","color_scheme":"background-1","padding_top":0,"padding_bottom":0}},"16557922926d12c15b":{"type":"video","settings":{"heading":"Nuestro Festival: Pachefest 2022","heading_size":"h2","cover_image":"shopify:\/\/shop_images\/Screen_Shot_2022-07-27_at_17.22.47.png","video_url":"https:\/\/www.youtube.com\/watch?v=SoHlKfuJe-k&feature=youtu.be","description":"=","full_width":false,"color_scheme":"inverse","padding_top":100,"padding_bottom":100}},"16596591040703c1c0":{"type":"custom-liquid","settings":{"custom_liquid":"<div style=\"font-size:44px; overflow: hidden; white-space: nowrap; border-top: 1px solid #000; border-bottom: 1px solid #000; text-transform: uppercase; font-weight: 300\">\n<a \nstyle=\"text-decoration: none; color: #000\"\n\nhref=\"https:\/\/www.instagram.com\/pachefestmx\/\">\n@pachefestmx \/\/ @pachefestmx  \/\/ @pachefestmx \/\/ @pachefestmx  \/\/ @pachefestmx \/\/ @pachefestmx  \/\/\n<\/a>\n<\/div","color_scheme":"background-1","padding_top":0,"padding_bottom":0}},"0cdceb64-b9e5-4fad-ba54-13303e005bdf":{"type":"newsletter","blocks":{"template--15023381446767__0cdceb64-b9e5-4fad-ba54-13303e005bdf-1667339214ef804137-0":{"type":"heading","settings":{"heading":"Join the Gaang!","heading_size":"h0"}},"template--15023381446767__0cdceb64-b9e5-4fad-ba54-13303e005bdf-1667339214ef804137-1":{"type":"paragraph","settings":{"text":"<p>Entérate de las nuevas colecciones, promociones y más.<\/p>"}},"template--15023381446767__0cdceb64-b9e5-4fad-ba54-13303e005bdf-1667339214ef804137-2":{"type":"email_form","settings":{}}},"block_order":["template--15023381446767__0cdceb64-b9e5-4fad-ba54-13303e005bdf-1667339214ef804137-0","template--15023381446767__0cdceb64-b9e5-4fad-ba54-13303e005bdf-1667339214ef804137-1","template--15023381446767__0cdceb64-b9e5-4fad-ba54-13303e005bdf-1667339214ef804137-2"],"settings":{"color_scheme":"accent-1","full_width":true,"padding_top":100,"padding_bottom":100}}},"order":["16596526473bacf1c1","1655792306f0adf85c","165579156640499b62","featured-collection","16589639038e65b6aa","1659658576a8bf0937","16589641322708fa3a","16557922926d12c15b","16596591040703c1c0","0cdceb64-b9e5-4fad-ba54-13303e005bdf"]}
+{
+  "sections": {
+    "16596526473bacf1c1": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"video-container\">\n    <video playsinline autoplay muted loop id=\"myVideo\">\n      <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/029e7f6eb8de41a1afcd144251a717b6.mp4\" type=\"video\/mp4\">\n      Your browser does not support HTML5 video.\n    <\/video>\n  \n    <div class=\"content\">\n      <div class=\"content-text\">\n        <h1>Some girls get high <\/h1>\n        <p>Moda y accesorios para mantenerte en las nubes.<\/p>\n      <\/div>\n    <\/div>\n  <\/div>\n\n\n  <script>\n    var video = document.getElementById(\"myVideo\");\n    var btn = document.getElementById(\"myBtn\");\n\n    function myFunction() {\n      if (video.paused) {\n        video.play();\n        btn.innerHTML = \"Pause\";\n      } else {\n        video.pause();\n        btn.innerHTML = \"Play\";\n      }\n    }\n  <\/script>\n\n\n\n<style>\n  @media(min-width:768px){\n    .video-container {\n    position: relative;\n    height: 100vh;\n    width: 100%;\n    }\n    #myVideo {\n    position: absolute;\n    right:0;\n    bottom: 0;\n    min-width: 100%;\n    min-height: 100%;\n  }\n  }\n  @media(max-width:768px){\n    .video-container {\n      position: center;\n      height: 100vh;\n      margin-top: -200px;\n      max-width: 100%;\n      overflow:hidden;\n    }\n    #myVideo {\n    position: relative;\n    top: 0;\n    left:0;\n    right:0;\n    bottom: 0;\n    min-width: 100%;\n  }\n  }\n  \n  \n  .content {\n    position: absolute;\n    bottom: 0;\n    width: 100%;\n    padding: 20px;\n    min-height: 75%;\n  }\n\n  .content-text {\n    margin: 0 auto;\n    max-width: 1200px;\n    padding: 2rem;\n    text-align: center;\n  }\n\n  h1 {\n    font-size: 84.5px;\n    font-family: \"MorgenWalsh\", serif;\n    letter-spacing: -3px;\n    margin-bottom: 0;\nline-height: 84.5px;\n  }\n<\/style>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1655792306f0adf85c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "🔥 Lo + nuevo 🔥",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "nuevos-productos",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 32,
+        "padding_bottom": 100
+      }
+    },
+    "165579156640499b62": {
+      "type": "collection-list",
+      "blocks": {
+        "1655791566d7240f36-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "crop-tops"
+          }
+        },
+        "bb8d222c-b41f-481b-8a4d-ab2892d32d86": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hoodies"
+          }
+        },
+        "1655791566d7240f36-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gorros-y-buckets"
+          }
+        },
+        "5c254b06-5250-4cf0-bddc-1587601df806": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "accesorios"
+          }
+        },
+        "c71c31fd-5525-464e-bbea-7d8003f6d6a1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "smoke-shop"
+          }
+        }
+      },
+      "block_order": [
+        "1655791566d7240f36-1",
+        "bb8d222c-b41f-481b-8a4d-ab2892d32d86",
+        "1655791566d7240f36-0",
+        "5c254b06-5250-4cf0-bddc-1587601df806",
+        "c71c31fd-5525-464e-bbea-7d8003f6d6a1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "Arma tu outfit",
+        "heading_size": "h2",
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
+        "color_scheme": "accent-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Los favs del gaang",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "verano-del-cohete",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "16589639038e65b6aa": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"síguenos-banner\" style=\"font-size:44px; overflow: hidden; white-space: nowrap; border-top: 1px solid #000; border-bottom: 1px solid #000; text-transform: uppercase; font-weight: 300\">\n<a \nstyle=\"text-decoration: none; color: #000\"\n\nhref=\"https:\/\/www.tiktok.com\/@highgaang_\">\nSiguenos en Instagram > @highgaang < Síguenos en Tiktok > @highgaang < Siguenos en Instagram > @highgaang < Siguenos en Instagram > @highgaang <\n<\/a>\n<\/div",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1659658576a8bf0937": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"about-container\">\n  <div class=\"about\">\n    <div>\n      <img src=\"http:\/\/danielpliego.com\/highgaang\/left-image.png\" alt=\"\">\n    <\/div>\n    <div class=\"about-content\">\n      <h1>Join the Gaang<\/h1>\n      <p>\n        Buscamos cambiar la percepción que existe hacia las personas que consumen cannabis, (en especial las mujeres) a través de contenido educativo y colecciones de ropa y accesorios que expresan un estilo de vida más conectado a la naturaleza y la psicodelia.\n      <\/p>\n      <p>\n        Nos gusta colaborar con artistas, marcas y tiendas independientes para en conjunto promover el\n        comercio local.\n      <\/p>\n      <a href=\"mailto:highgaang@gmail.com\">contáctanos<\/a>\n    <\/div>\n    <div>\n      <img src=\"http:\/\/danielpliego.com\/highgaang\/right-image.png\" alt=\"\">\n    <\/div>\n  <\/div>\n<\/div>\n\n<style type=\"text\/css\">\n  .about-container {\n    padding: 5rem 1rem;\n    background: url('https:\/\/danielpliego.com\/highgaang\/bg-fondo.jpg');\n    background-size: cover;\n  }\n\n  @media (min-width: 768px) {\n    .about {\n      display: grid;\n      grid-gap: 1rem;\n      margin: 0 auto;\n      max-width: 1200px;\n      grid-template-columns: 2fr 3fr 2fr;\n    }\n  }\n\n  .about-content {\n    text-align: center;\n    font-size: 20px;\n    letter-spacing: -1px;\n  }\n\n  .about-content h1 {\n    font-family: 'Magilio', sans-serif;\n    font-size: 84px;\n    line-height: 84px;\n    margin: 1rem;\n  }\n\n  .about-content a {\n    display: inline-block;\n    border: 1px solid #000;\n    padding: 0.5rem 2rem;\n    border-radius: 20px;\n    color: #000;\n    text-decoration: none;\n    text-transform: uppercase;\n  }\n\n  img {\n    max-width: 100%;\n    height: auto;\n  }\n<\/style>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "16589641322708fa3a": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"siguenos-banner\" style=\"font-size:28px; overflow: hidden; white-space: nowrap; border-top: 1px solid #000; border-bottom: 1px solid #000; text-transform: uppercase; font-weight: 300\">\n<a \nstyle=\"text-decoration: none; color: #000\"\n\nhref=\"https:\/\/www.instagram.com\/highgaang\/\">\nSíguenos en Instagram > @highgaang < \n<\/a>\n\n<a \nstyle=\"text-decoration: none; color: #000\"\n\nhref=\"https:\/\/www.tiktok.com\/@highgaang_\">\nSiguenos en Tiktok > @highgaang < Siguenos en Tiktok > @highgaang <\n<\/a>\n<\/div",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "16557922926d12c15b": {
+      "type": "video",
+      "settings": {
+        "heading": "Nuestro Festival: Pachefest 2022",
+        "heading_size": "h2",
+        "cover_image": "shopify:\/\/shop_images\/Screen_Shot_2022-07-27_at_17.22.47.png",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=SoHlKfuJe-k&feature=youtu.be",
+        "description": "=",
+        "full_width": false,
+        "color_scheme": "inverse",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "16596591040703c1c0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"font-size:44px; overflow: hidden; white-space: nowrap; border-top: 1px solid #000; border-bottom: 1px solid #000; text-transform: uppercase; font-weight: 300\">\n<a \nstyle=\"text-decoration: none; color: #000\"\n\nhref=\"https:\/\/www.instagram.com\/pachefestmx\/\">\n@pachefestmx \/\/ @pachefestmx  \/\/ @pachefestmx \/\/ @pachefestmx  \/\/ @pachefestmx \/\/ @pachefestmx  \/\/\n<\/a>\n<\/div",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "0cdceb64-b9e5-4fad-ba54-13303e005bdf": {
+      "type": "newsletter",
+      "blocks": {
+        "template--15023381446767__0cdceb64-b9e5-4fad-ba54-13303e005bdf-1667339214ef804137-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join the Gaang!",
+            "heading_size": "h0"
+          }
+        },
+        "template--15023381446767__0cdceb64-b9e5-4fad-ba54-13303e005bdf-1667339214ef804137-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Entérate de las nuevas colecciones, promociones y más.<\/p>"
+          }
+        },
+        "template--15023381446767__0cdceb64-b9e5-4fad-ba54-13303e005bdf-1667339214ef804137-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--15023381446767__0cdceb64-b9e5-4fad-ba54-13303e005bdf-1667339214ef804137-0",
+        "template--15023381446767__0cdceb64-b9e5-4fad-ba54-13303e005bdf-1667339214ef804137-1",
+        "template--15023381446767__0cdceb64-b9e5-4fad-ba54-13303e005bdf-1667339214ef804137-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "16596526473bacf1c1",
+    "1655792306f0adf85c",
+    "165579156640499b62",
+    "featured-collection",
+    "16589639038e65b6aa",
+    "1659658576a8bf0937",
+    "16589641322708fa3a",
+    "16557922926d12c15b",
+    "16596591040703c1c0",
+    "0cdceb64-b9e5-4fad-ba54-13303e005bdf"
+  ]
+}
