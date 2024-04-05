@@ -1,18 +1,19 @@
 {
   "sections": {
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-page",
       "custom_css": [
-
+        "h1 {display: none;}",
+        "footer {display: none;}"
       ],
       "settings": {
         "padding_top": 20,
         "padding_bottom": 12
-      }
-    },
-    "shogun-helper": {
-      "type": "shogun-helper",
-      "settings": {
       }
     }
   },
