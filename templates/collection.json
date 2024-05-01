@@ -1,1 +1,69 @@
-{"sections":{"banner":{"type":"main-collection-banner","settings":{"show_collection_description":false,"show_collection_image":true,"color_scheme":"accent-1"}},"product-grid":{"type":"main-collection-product-grid","settings":{"products_per_page":24,"columns_desktop":3,"image_ratio":"portrait","show_secondary_image":true,"show_vendor":false,"show_rating":true,"enable_quick_add":true,"enable_filtering":true,"filter_type":"horizontal","enable_sorting":true,"columns_mobile":"1","padding_top":0,"padding_bottom":80}},"newsletter":{"type":"newsletter","blocks":{"heading":{"type":"heading","settings":{"heading":"Join the Gaang!","heading_size":"h0"}},"paragraph":{"type":"paragraph","settings":{"text":"<p>Conoce nuevos productos, promociones, ofertas y más<\/p>"}},"email-form":{"type":"email_form","settings":{}}},"block_order":["heading","paragraph","email-form"],"settings":{"color_scheme":"background-2","full_width":true,"padding_top":100,"padding_bottom":100}}},"order":["banner","product-grid","newsletter"]}
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "accent-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 3,
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "1",
+        "padding_top": 0,
+        "padding_bottom": 80
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join the Gaang!",
+            "heading_size": "h0"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Conoce nuevos productos, promociones, ofertas y más<\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "newsletter"
+  ]
+}
